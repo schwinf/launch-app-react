@@ -1,0 +1,18 @@
+.logo {
+  width: 50px;
+}
+
+@font-face {
+  font-family: 'HyperionRegular';
+  src: url('./assets/fonts/HyperionRegular.eot'); /* IE9 Compat Modes */
+  src: 
+       url('./assets/fonts/HyperionRegular.woff') format('woff'), /* Modern Browsers */
+       url('./assets/fonts/HyperionRegular.ttf') format('truetype'); 
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+.logoFont {
+  font-family: 'HyperionRegular';
+}
